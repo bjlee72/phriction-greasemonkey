@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Phriction Edit Side By Side
 // @namespace    http://tampermonkey.net/
-// @updateURL
+// @updateURL    https://raw.githubusercontent.com/bjlee72/phriction-greasemonkey/master/phriction-edit-side-by-side.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       byungjoon@molocoads.com
-// @match        https://moloco.phacility.com/phriction/edit/*
+// @match        https://*.phacility.com/phriction/edit/*
 // @grant        none
 // ==/UserScript==
 
