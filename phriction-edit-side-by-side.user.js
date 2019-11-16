@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 /*
- * Phriction edit with Preview side-by-side
+ * Phriction edit with Preview side-by-side.
  *
  * This script make the Phriction wiki preview pane for edit 
  * displayed on the right side of edit textarea.
