@@ -4,10 +4,17 @@
 // @updateURL    https://raw.githubusercontent.com/bjlee72/phriction-greasemonkey/master/phriction-edit-side-by-side.user.js
 // @version      0.1
 // @description  try to take over the world!
-// @author       byungjoon@molocoads.com
+// @author       byungjoon.lee@gmail.com
 // @match        https://*.phacility.com/phriction/edit/*
 // @grant        none
 // ==/UserScript==
+
+/*
+ * Phriction edit with Preview side-by-side
+ *
+ * This script make the Phriction wiki preview pane for edit 
+ * displayed on the right side of edit textarea.
+ */
 
 (function() {
     'use strict';
