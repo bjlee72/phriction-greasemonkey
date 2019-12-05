@@ -6,6 +6,7 @@
 // @description  try to take over the world!
 // @author       byungjoon.lee@gmail.com
 // @match        https://*.phacility.com/phriction/edit/*
+// @match        https://*.phacility.com/maniphest/task/edit/*
 // @grant        none
 // ==/UserScript==
 
